@@ -1,9 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A c program that prints aline to the standaard erors
+ * main - A c program that prints aline to the standaard erors.
  * Return 1 (Success)
- * Return 0 .
  */
 int main(void)
 {
