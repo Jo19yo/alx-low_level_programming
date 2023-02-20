@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - A c program that prints aline to the standaard erors
- * Return 1 (Success)
+ * Return: Always  (Success)
  */
 int main(void)
 {
